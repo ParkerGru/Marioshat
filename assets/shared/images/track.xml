@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="track.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<SubTexture name="track00000" x="0" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00001" x="1976" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00002" x="3952" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00003" x="5928" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00004" x="7904" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00005" x="9880" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00006" x="11856" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00007" x="13832" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00008" x="15808" y="0" width="1976" height="1313"/>
+	<SubTexture name="track00009" x="17784" y="0" width="1976" height="1313"/>
+
+	<SubTexture name="track00010" x="0" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00011" x="1976" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00012" x="3952" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00013" x="5928" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00014" x="7904" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00015" x="9880" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00016" x="11856" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00017" x="13832" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00018" x="15808" y="1313" width="1976" height="1313"/>
+	<SubTexture name="track00019" x="17784" y="1313" width="1976" height="1313"/>
+
+	<SubTexture name="track00020" x="0" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00021" x="1976" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00022" x="3952" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00023" x="5928" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00024" x="7904" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00025" x="9880" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00026" x="11856" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00027" x="13832" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00028" x="15808" y="2626" width="1976" height="1313"/>
+	<SubTexture name="track00029" x="17784" y="2626" width="1976" height="1313"/>
+
+	<SubTexture name="track00030" x="0" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00031" x="1976" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00032" x="3952" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00033" x="5928" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00034" x="7904" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00035" x="9880" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00036" x="11856" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00037" x="13832" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00038" x="15808" y="3939" width="1976" height="1313"/>
+	<SubTexture name="track00039" x="17784" y="3939" width="1976" height="1313"/>
+
+	<SubTexture name="track00040" x="0" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00041" x="1976" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00042" x="3952" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00043" x="5928" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00044" x="7904" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00045" x="9880" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00046" x="11856" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00047" x="13832" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00048" x="15808" y="5252" width="1976" height="1313"/>
+	<SubTexture name="track00049" x="17784" y="5252" width="1976" height="1313"/>
+
+	<SubTexture name="track00050" x="0" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00051" x="1976" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00052" x="3952" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00053" x="5928" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00054" x="7904" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00055" x="9880" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00056" x="11856" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00057" x="13832" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00058" x="15808" y="6565" width="1976" height="1313"/>
+	<SubTexture name="track00059" x="17784" y="6565" width="1976" height="1313"/>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+</TextureAtlas>

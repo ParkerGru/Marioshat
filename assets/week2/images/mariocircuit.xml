@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mariocircuit.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->	
+
+	<SubTexture name="scroll0000" x="0" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll001" x="3936" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll002" x="7872" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll003" x="11808" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll004" x="15744" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll005" x="19680" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0006" x="23616" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0007" x="27552" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0008" x="31488" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0009" x="35424" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0010" x="39360" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0011" x="43296" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0012" x="47232" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0013" x="51168" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0014" x="55104" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0015" x="59040" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0016" x="62976" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0017" x="66912" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0018" x="70848" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0019" x="74784" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0020" x="78720" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0021" x="82656" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0022" x="86592" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0023" x="90528" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0024" x="94464" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0025" x="98400" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0026" x="102336" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0027" x="106272" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0028" x="110208" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0029" x="114144" y="0" width="3936" height="1313"/>
+	<SubTexture name="scroll0030" x="0" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0031" x="3936" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0032" x="7872" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0033" x="11808" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0034" x="15744" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0035" x="19680" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0036" x="23616" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0037" x="27552" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0038" x="31488" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0039" x="35424" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0040" x="39360" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0041" x="43296" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0042" x="47232" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0043" x="51168" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0044" x="55104" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0045" x="59040" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0046" x="62976" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0047" x="66912" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0048" x="70848" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0049" x="74784" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0050" x="78720" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0051" x="82656" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0052" x="86592" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0053" x="90528" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0054" x="94464" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0055" x="98400" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0056" x="102336" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0057" x="106272" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0058" x="110208" y="1313" width="3936" height="1313"/>
+	<SubTexture name="scroll0059" x="114144" y="1313" width="3936" height="1313"/>
+</TextureAtlas>
